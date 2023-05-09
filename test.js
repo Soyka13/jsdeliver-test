@@ -1,1 +1,1 @@
-console.log('hello, jsdeliver')
+console.log('hello, jsdeliver 2.0')
